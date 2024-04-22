@@ -1,0 +1,243 @@
+DELAY : 268
+Keyboard : S : KeyDown
+DELAY : 222
+Keyboard : S : KeyUp
+DELAY : 100
+Keyboard : A : KeyDown
+DELAY : 292
+Keyboard : A : KeyUp
+DELAY : 126
+Keyboard : W : KeyDown
+DELAY : 181
+Keyboard : W : KeyUp
+DELAY : 300
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 143
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 560
+Keyboard : D : KeyDown
+DELAY : 504
+Keyboard : D : KeyDown
+DELAY : 32
+Keyboard : D : KeyDown
+DELAY : 32
+Keyboard : D : KeyDown
+DELAY : 31
+Keyboard : D : KeyDown
+DELAY : 44
+Keyboard : D : KeyUp
+DELAY : 43
+Keyboard : W : KeyDown
+DELAY : 446
+Keyboard : D : KeyDown
+DELAY : 370
+Keyboard : W : KeyUp
+DELAY : 18
+Keyboard : D : KeyUp
+DELAY : 164
+Keyboard : S : KeyDown
+DELAY : 514
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 32
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 32
+Keyboard : S : KeyDown
+DELAY : 30
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 46
+Keyboard : S : KeyDown
+DELAY : 32
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 30
+Keyboard : S : KeyDown
+DELAY : 30
+Keyboard : S : KeyDown
+DELAY : 46
+Keyboard : S : KeyDown
+DELAY : 31
+Keyboard : S : KeyDown
+DELAY : 10
+Keyboard : S : KeyUp
+DELAY : 130
+Keyboard : R : KeyDown
+DELAY : 64
+Keyboard : R : KeyUp
+DELAY : 155
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 281
+Keyboard : D1 : KeyDown
+DELAY : 68
+Keyboard : D1 : KeyUp
+DELAY : 621
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 123
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1397
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 105
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1375
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 131
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1186
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 142
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 670
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 140
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 40
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 141
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 1627
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 155
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1331
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 139
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1351
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 145
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1151
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 134
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 903
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 113
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 52
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 114
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 1739
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 148
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1389
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 128
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1367
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 190
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1208
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 69
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 109
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 1595
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1318
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 139
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1415
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 151
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1429
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 132
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 646
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 60
+Mouse : 960 : 554 : RightButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : 960 : 554 : RightButtonUp : 0 : 0 : 0
+DELAY : 1605
+Mouse : 960 : 554 : LeftButtonDown : 0 : 0 : 0
+DELAY : 132
+Mouse : 960 : 554 : LeftButtonUp : 0 : 0 : 0
+DELAY : 823
+Keyboard : D1 : KeyDown
+DELAY : 44
+Keyboard : D1 : KeyUp
+DELAY : 488
+Keyboard : W : KeyDown
+DELAY : 506
+Keyboard : W : KeyDown
+DELAY : 32
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 47
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 32
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 30
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 30
+Keyboard : W : KeyDown
+DELAY : 47
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 32
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 31
+Keyboard : W : KeyDown
+DELAY : 24
+Keyboard : D : KeyDown
+DELAY : 418
+Keyboard : W : KeyUp
+DELAY : 28
+Keyboard : D : KeyUp
+DELAY : 1000
+IF IMAGE : Qk22BwAAAAAAADYAAAAoAAAAoAAAAAMAAAABACAAAAAAAAAAAAB0EgAAdBIAAAAAAAAAAAAAY6e2/2Ontv9jqLf/Y6e2/2Oot/9jqLf/Y6e2/2Oot/9jp7b/Y6e2/2Oot/9kqLf/Y6e2/2Oot/9jqLf/Y6e2/2Ontv9jp7b/Y6i3/2Ontv9jqLf/Y6e2/2Oot/9jqLf/Y6e2/2Oot/9jqLf/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/ZKi3/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Oot/9jqLf/Y6e2/2Ontv9jqLf/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jqLf/Y6i3/2Ontv9jp7b/Y6i3/2Ontv9jqLf/Y6e2/2Ontv9jqLf/Y6i3/2Oot/9jqLf/Y6e2/2Oot/9jqLf/Y6e2/2Oot/9jqLf/Y6i3/2Oot/9jqLf/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6i3/2Ontv9jp7b/Y6i3/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Oot/9jqLf/Y6e2/2Ontv9jp7b/Y6i3/2Ontv9jqLf/Y6e2/2Oot/9jp7b/Y6e2/2Ontv9jp7b/Y6i3/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Oot/9jp7b/Y6e2/2Oot/9jqLf/Y6i3/2Ontv9jp7b/Y6e2/2Oot/9jp7b/Y6e2/2Oot/9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jqLf/Y6e2/2Ontv9jp7b/Y6i3/2Ontv9jqLf/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jp7b/Y6e2/2Ontv9jqLf/Y6e2/2Oot/9jqLf/Y6e2/2Oot/9jp7b/Y6e2/4PL2v+Dy9v/g8vb/4PL2/+Dy9v/g8vb/4PL2/+EzNv/g8vb/4TM2/+EzNv/g8vb/4PL2v+Dy9v/g8va/4PL2v+Dy9r/g8vb/4PL2/+Dy9r/g8va/4PL2/+Dy9r/g8vb/4PL2/+EzNv/g8vb/4PL2v+Dy9v/hMzb/4PL2v+EzNz/g8vb/4PL2v+EzNv/g8vb/4PL2v+Dy9v/g8va/4TM2/+Dy9r/g8va/4PL2/+Dy9v/g8va/4PL2/+Dy9v/g8vb/4TM2/+EzNv/hMzb/4TM2/+EzNv/g8vb/4PL2v+Dy9v/g8va/4PL2/+Dy9v/g8vb/4PL2/+Dy9r/g8vb/4TM2/+Dy9r/hMzb/4TM2/+Dy9v/g8vb/4TM2/+Dy9v/g8vb/4TM2/+Dy9v/g8vb/4PL2v+Dy9r/g8va/4PL2v+Dy9v/g8va/4PL2v+Dy9v/g8vb/4TM3P+Dy9v/hMzc/4PL2/+EzNv/g8vb/4PL2v+EzNv/hMzb/4PL2/+Dy9r/g8vb/4PL2/+Dy9r/g8vb/4TM2/+Dy9r/hMzb/4PL2/+Dy9v/hMzb/4PL2/+EzNv/g8vb/4PL2/+Dy9v/g8va/4PL2/+Dy9v/g8va/4PL2/+Dy9v/g8vb/4PL2/+EzNv/hMzb/4PL2/+Dy9r/g8va/4PL2/+Dy9v/hMzb/4PL2/+EzNv/g8vb/4TM2/+Dy9v/g8vb/4PL2v+Dy9r/g8va/4PL2/+Dy9r/g8va/4PL2/+Dy9v/g8vb/4PL2/+Dy9v/g8va/4PL2/+Dy9v/g8va/4PL2/+Dy9v/g8vb/4PL2v+Dy9v/g8vb/4PL2/+Dy9v/g8vb/4PL2/+EzNv/g8vb/4TM2/+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+X4fH/l+Hx/5fh8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+X4fH/l+Hx/5fh8f+W4fD/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/l+Hx/5fh8f+X4fH/l+Hx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5fh8f+X4fH/l+Hx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+X4fH/l+Hx/5fh8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+X4fH/l+Hx/5fh8f+X4fH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/l+Hx/5fh8f+X4fH/l+Hx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5ji8v+Y4vL/mOLy/5fh8f+X4fH/l+Hx/5fi8f+X4vH/l+Lx/5fi8f+X4vH/l+Lx/5fi8f+Y4vL/mOLy/5ji8v+Y4vL/ : 0 : 0 : 1 : 
+DELAY : 100
+Keyboard : D2 : KeyUp
+DELAY : 100
+Keyboard : D2 : KeyDown
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 3000
+Keyboard : D2 : KeyUp
+DELAY : 100
+Keyboard : D2 : KeyDown
+DELAY : 100
